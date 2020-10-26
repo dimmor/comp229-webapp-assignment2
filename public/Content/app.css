@@ -36,3 +36,12 @@ body{
 .container {
     padding-top: 65px;
 }
+
+th {
+  background-color: #15970a;
+  color: white;
+}
+
+.navbar-nav li:last-child {
+  background: rgb(238, 91, 6);  
+}
