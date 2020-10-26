@@ -1,3 +1,4 @@
+///*Java Script file - Dmitriy Morozov - 301098501 - 24/10/2020*/
 //IIFE - Immediately Invoked Function Expression
 
 (function(){
@@ -20,7 +21,5 @@
             });
         }
     }
-
     window.addEventListener("load", Start);
-
 });

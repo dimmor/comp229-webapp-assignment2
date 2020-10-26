@@ -10,7 +10,7 @@ let User = mongoose.Schema
             type: String,
             default: '',
             trim: true,
-            required: 'username is required'
+            required: 'Username is required'
         },
         //mongose takes care of the pssword string
         /*
@@ -27,7 +27,7 @@ let User = mongoose.Schema
             type: String,
             default: '',
             trim: true,
-            required: 'email address is required'
+            required: 'Email address is required'
        },
        displayName: 
        {
